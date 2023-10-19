@@ -1,5 +1,7 @@
 Totally Trivia
-Totally Trivia is a fun and interactive React app designed to test your general knowledge. With integration to a trivia API, users can select a category and challenge themselves with random trivia questions. This project utilizes React 16.9 for the frontend.
+Totally Trivia is a fun and interactive React app designed to test your general knowledge. With integration to a trivia API, users can select a category and challenge themselves with random trivia questions. This project utilizes React 16.9 for the frontend. 
+
+**note** this has not been updated since late 2019
 
 Table of Contents
 Getting Started
