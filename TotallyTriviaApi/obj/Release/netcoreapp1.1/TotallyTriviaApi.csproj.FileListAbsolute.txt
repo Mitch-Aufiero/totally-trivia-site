@@ -1,0 +1,11 @@
+E:\MYPROJECTS\c#\TotallyTriviaApi\TotallyTriviaApi\bin\Release\netcoreapp1.1\TotallyTriviaApi.deps.json
+E:\MYPROJECTS\c#\TotallyTriviaApi\TotallyTriviaApi\bin\Release\netcoreapp1.1\TotallyTriviaApi.runtimeconfig.json
+E:\MYPROJECTS\c#\TotallyTriviaApi\TotallyTriviaApi\bin\Release\netcoreapp1.1\TotallyTriviaApi.runtimeconfig.dev.json
+E:\MYPROJECTS\c#\TotallyTriviaApi\TotallyTriviaApi\bin\Release\netcoreapp1.1\TotallyTriviaApi.dll
+E:\MYPROJECTS\c#\TotallyTriviaApi\TotallyTriviaApi\bin\Release\netcoreapp1.1\TotallyTriviaApi.pdb
+E:\MYPROJECTS\c#\TotallyTriviaApi\TotallyTriviaApi\obj\Release\netcoreapp1.1\TotallyTriviaApi.csprojResolveAssemblyReference.cache
+E:\MYPROJECTS\c#\TotallyTriviaApi\TotallyTriviaApi\obj\Release\netcoreapp1.1\TotallyTriviaApi.csproj.CoreCompileInputs.cache
+E:\MYPROJECTS\c#\TotallyTriviaApi\TotallyTriviaApi\obj\Release\netcoreapp1.1\TotallyTriviaApi.AssemblyInfoInputs.cache
+E:\MYPROJECTS\c#\TotallyTriviaApi\TotallyTriviaApi\obj\Release\netcoreapp1.1\TotallyTriviaApi.AssemblyInfo.cs
+E:\MYPROJECTS\c#\TotallyTriviaApi\TotallyTriviaApi\obj\Release\netcoreapp1.1\TotallyTriviaApi.dll
+E:\MYPROJECTS\c#\TotallyTriviaApi\TotallyTriviaApi\obj\Release\netcoreapp1.1\TotallyTriviaApi.pdb

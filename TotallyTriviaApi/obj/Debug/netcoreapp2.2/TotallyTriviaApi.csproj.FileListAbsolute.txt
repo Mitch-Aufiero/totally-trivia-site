@@ -1,0 +1,14 @@
+E:\MYPROJECTS\totallytriviaapi\totallytriviaapi\TotallyTriviaApi\TotallyTriviaApi\bin\Debug\netcoreapp2.2\TotallyTriviaApi.deps.json
+E:\MYPROJECTS\totallytriviaapi\totallytriviaapi\TotallyTriviaApi\TotallyTriviaApi\bin\Debug\netcoreapp2.2\TotallyTriviaApi.runtimeconfig.json
+E:\MYPROJECTS\totallytriviaapi\totallytriviaapi\TotallyTriviaApi\TotallyTriviaApi\bin\Debug\netcoreapp2.2\TotallyTriviaApi.runtimeconfig.dev.json
+E:\MYPROJECTS\totallytriviaapi\totallytriviaapi\TotallyTriviaApi\TotallyTriviaApi\bin\Debug\netcoreapp2.2\TotallyTriviaApi.dll
+E:\MYPROJECTS\totallytriviaapi\totallytriviaapi\TotallyTriviaApi\TotallyTriviaApi\bin\Debug\netcoreapp2.2\TotallyTriviaApi.pdb
+E:\MYPROJECTS\totallytriviaapi\totallytriviaapi\TotallyTriviaApi\TotallyTriviaApi\obj\Debug\netcoreapp2.2\TotallyTriviaApi.csprojResolveAssemblyReference.cache
+E:\MYPROJECTS\totallytriviaapi\totallytriviaapi\TotallyTriviaApi\TotallyTriviaApi\obj\Debug\netcoreapp2.2\TotallyTriviaApi.csproj.CoreCompileInputs.cache
+E:\MYPROJECTS\totallytriviaapi\totallytriviaapi\TotallyTriviaApi\TotallyTriviaApi\obj\Debug\netcoreapp2.2\TotallyTriviaApi.RazorAssemblyInfo.cache
+E:\MYPROJECTS\totallytriviaapi\totallytriviaapi\TotallyTriviaApi\TotallyTriviaApi\obj\Debug\netcoreapp2.2\TotallyTriviaApi.RazorAssemblyInfo.cs
+E:\MYPROJECTS\totallytriviaapi\totallytriviaapi\TotallyTriviaApi\TotallyTriviaApi\obj\Debug\netcoreapp2.2\TotallyTriviaApi.AssemblyInfoInputs.cache
+E:\MYPROJECTS\totallytriviaapi\totallytriviaapi\TotallyTriviaApi\TotallyTriviaApi\obj\Debug\netcoreapp2.2\TotallyTriviaApi.AssemblyInfo.cs
+E:\MYPROJECTS\totallytriviaapi\totallytriviaapi\TotallyTriviaApi\TotallyTriviaApi\obj\Debug\netcoreapp2.2\TotallyTriviaApi.RazorTargetAssemblyInfo.cache
+E:\MYPROJECTS\totallytriviaapi\totallytriviaapi\TotallyTriviaApi\TotallyTriviaApi\obj\Debug\netcoreapp2.2\TotallyTriviaApi.dll
+E:\MYPROJECTS\totallytriviaapi\totallytriviaapi\TotallyTriviaApi\TotallyTriviaApi\obj\Debug\netcoreapp2.2\TotallyTriviaApi.pdb
